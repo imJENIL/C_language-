@@ -1,26 +1,41 @@
-🧠 C Language Mini Projects
+# 💻 C Language - Mini Projects
 
-This repository contains a collection of beginner-friendly mini projects written in C language. These are great for practicing logic building, improving C syntax knowledge, and having a bit of fun with programming!
+Welcome to a collection of mini projects built using the C programming language. These simple programs are great for beginners looking to practice C basics, improve logical thinking, and explore how real-world problems can be solved through code.
 
+---
 
-📋 Projects Included
+## 📁 Projects Included
 
+### ✅ 1. **Simple Calculator**
+A command-line calculator that can perform basic operations like:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-Simple Calculator
+### ✅ 2. **Matrix Calculator**
+Perform operations such as:
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Multiplication
 
-Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+### ✅ 3. **Number Guessing Game**
+A fun game where:
+- The computer generates a random number
+- The user has to guess it in minimum attempts
 
+### ✅ 4. **Stone-Paper-Scissor Game**
+Text-based version of the classic game:
+- User plays against the computer
+- Win/Lose/Draw logic implemented
 
-Matrix Calculator
+---
 
-Perform matrix operations such as addition, subtraction, and multiplication.
+## ⚙️ Technologies Used
 
+- **Language:** C
+- **Compiler:** [MinGW (GCC for Windows)]
+- **IDE:** VS Code
 
-Number Guessing Game
+---
 
-A small game where the user guesses a randomly generated number within a certain number of tries.
-
-
-Stone-Paper-Scissor Game
-
-A text-based version of the classic Stone-Paper-Scissors game (also known as Rock-Paper-Scissors).
